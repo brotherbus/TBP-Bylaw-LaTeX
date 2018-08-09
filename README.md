@@ -1,2 +1,2 @@
 # TBP-Bylaw-LaTeX
-Sample bylaws for Tau Beta Pi using LaTeX
+Sample chapter bylaws for Tau Beta Pi using LaTeX.
